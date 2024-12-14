@@ -13,7 +13,7 @@
     "bootstrap-icons": "^1.11.3",
     "framer-motion": "^11.5.3",
     "materialize-css": "^1.0.0-rc.2",
-    "next": "14.2.7",
+    "next": "^14.2.20",
     "react": "^18",
     "react-dom": "^18",
     "sharp": "^0.33.5"

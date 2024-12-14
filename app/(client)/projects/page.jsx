@@ -56,6 +56,7 @@ const Projects = () => {
   return (
     <>
       {pathName == "/projects" ? (
+        
         <>
           <div className=" container pt-3">
             <PageTitleHelp
