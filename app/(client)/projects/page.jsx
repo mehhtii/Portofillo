@@ -1,11 +1,10 @@
 "use client";
 import PageTitleHelp from "@/components/miniElementHelper/pageTitleHelp";
 import TitleSection from "@/components/miniElementHelper/titleSection";
-import projectImg from "@/public/images/project_img.png";
 import liveImgBtn from "@/public/images/Live_btn_img.png";
 import githubImgBtn from "@/public/images/github-btn-img.png";
 import HakimCode from "@/public/images/hkimCode.png";
-import AdminPanel from "@/public/images/AdminPanel.png";
+import AdminPanel from "@/public/images/adminPanel.png";
 import School from "@/public/images/school.png";
 import melodya from "@/public/images/melodya.png";
 import Image from "next/image";
@@ -76,7 +75,7 @@ const Projects = () => {
             className="text-light text-decoration-none view_all_project"
           >
             <p className="me-4">
-              View all <i class="bi bi-arrow-bar-right"></i>
+              View all <i className="bi bi-arrow-bar-right"></i>
             </p>
           </Link>
         </div>
